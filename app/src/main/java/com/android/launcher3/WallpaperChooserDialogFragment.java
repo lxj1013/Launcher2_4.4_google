@@ -48,7 +48,7 @@ public class WallpaperChooserDialogFragment extends DialogFragment implements
         AdapterView.OnItemSelectedListener, AdapterView.OnItemClickListener {
 
     private static final String TAG = "Launcher.WallpaperChooserDialogFragment";
-    private static final String EMBEDDED_KEY = "com.android.launcher2."
+    private static final String EMBEDDED_KEY = "com.android.launcher3."
             + "WallpaperChooserDialogFragment.EMBEDDED_KEY";
 
     private boolean mEmbedded;

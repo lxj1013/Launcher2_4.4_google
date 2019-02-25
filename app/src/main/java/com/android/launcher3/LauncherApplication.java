@@ -35,7 +35,7 @@ public class LauncherApplication extends Application {
     private static boolean sIsScreenLarge;
     private static float sScreenDensity;
     private static int sLongPressTimeout = 300;
-    private static final String sSharedPreferencesKey = "com.android.launcher2.prefs";
+    private static final String sSharedPreferencesKey = "com.android.launcher3.prefs";
     WeakReference<LauncherProvider> mLauncherProvider;
 
     @Override
